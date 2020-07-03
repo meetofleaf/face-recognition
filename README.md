@@ -1,12 +1,12 @@
-# face-recognition
+# Simple Face Recognition Python Program
 Using Haar Classifier from OpenCV library of Python, this script recognizes frontal face either from an image or in live mode from webcam.
 Made this project to dip my toes in the domain Computer Vision. Reading about it helps get some insights into it. I'll be including some resources at the for further study.
 Build on Windows, but no at all hard to use it on linux, just install libraries according to linux and then execution is pretty similar.
 
 ##### Requirements:
--[Python3](https://www.python.org/)
--[OpenCV](https://sourceforge.net/projects/opencvlibrary/)
--[Haar Cascade Frontal Face Features](https://github.com/opencv/opencv/tree/master/data/haarcascades) (file included)
+- [Python3](https://www.python.org/)
+- [OpenCV](https://sourceforge.net/projects/opencvlibrary/)
+- [Haar Cascade Frontal Face Features](https://github.com/opencv/opencv/tree/master/data/haarcascades) (file included)
 
 ##### Execution:
 1. In the terminal, go to the project directory
