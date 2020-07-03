@@ -15,6 +15,7 @@ Build on Windows, but no at all hard to use it on linux, just install libraries 
     > python face-detector.py live
     - For detection **from an image**:
     > python face-detector.py test1.jpg
+    
 You can use your own image in place of test1.jpg. Specify full file path if the image is in different directory.
 
 #### Heads up
