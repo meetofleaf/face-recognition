@@ -14,7 +14,7 @@ Build on Windows, but no at all hard to use it on linux, just install libraries 
     - So For **live face detection** from your webcam enter:
     > python face-detector.py live
     - For detection **from an image**:
-    > python face-detector.py <image\>
+    > python face-detector.py image
     Enter image name (if image is in same folder as script) or full image path (if image in different folder) in place of <image>
 
 #### Heads up
